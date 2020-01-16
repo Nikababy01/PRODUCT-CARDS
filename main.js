@@ -1,1 +1,1 @@
-console.log("MONIQUE ARE YOU GOOD");
+console.log("MONIQUE ARE YOU GOOD")
